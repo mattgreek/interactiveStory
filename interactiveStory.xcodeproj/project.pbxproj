@@ -12,6 +12,7 @@
 		8BE36D721CB9C08C000DC4F7 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BE36D701CB9C08C000DC4F7 /* Main.storyboard */; };
 		8BE36D741CB9C08C000DC4F7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8BE36D731CB9C08C000DC4F7 /* Assets.xcassets */; };
 		8BE36D771CB9C08C000DC4F7 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8BE36D751CB9C08C000DC4F7 /* LaunchScreen.storyboard */; };
+		8BE36D7F1CB9DDB8000DC4F7 /* InteractiveStory.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8BE36D7E1CB9DDB8000DC4F7 /* InteractiveStory.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		8BE36D731CB9C08C000DC4F7 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8BE36D761CB9C08C000DC4F7 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8BE36D781CB9C08C000DC4F7 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8BE36D7E1CB9DDB8000DC4F7 /* InteractiveStory.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = InteractiveStory.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				8BE36D6C1CB9C08C000DC4F7 /* AppDelegate.swift */,
 				8BE36D6E1CB9C08C000DC4F7 /* ViewController.swift */,
 				8BE36D701CB9C08C000DC4F7 /* Main.storyboard */,
+				8BE36D7E1CB9DDB8000DC4F7 /* InteractiveStory.swift */,
 				8BE36D731CB9C08C000DC4F7 /* Assets.xcassets */,
 				8BE36D751CB9C08C000DC4F7 /* LaunchScreen.storyboard */,
 				8BE36D781CB9C08C000DC4F7 /* Info.plist */,
@@ -136,6 +139,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8BE36D7F1CB9DDB8000DC4F7 /* InteractiveStory.swift in Sources */,
 				8BE36D6F1CB9C08C000DC4F7 /* ViewController.swift in Sources */,
 				8BE36D6D1CB9C08C000DC4F7 /* AppDelegate.swift in Sources */,
 			);
